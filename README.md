@@ -1,10 +1,10 @@
-# Hi there 👋
+# Arrr! 🦜👋
 
 <!--
 **nkkko/nkkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Nikola Balić](https://nkkko.github.io/), an experienced growth strategist and innovation enthusiast. I am passionate about helping startups thrive and businesses embrace digital transformation. I believe in boosting development velocity and creating standardized development environments.
+I am [Nikola (Niko) Balić](https://nkkko.github.io/), an experienced growth strategist and innovation enthusiast. I am passionate about helping startups thrive and businesses embrace digital transformation. I believe in boosting development velocity and creating standardized development environments.
 
 * 🔭 I am the Head of Growth at [Daytona](https://www.daytona.io/), where we are serving our first enterprise clients. We aim to increase business success by boosting development velocity with standardized development environments.
 * I am the Weaver of the [Dotfiles Insider](https://www.daytona.io/dotfiles/)
