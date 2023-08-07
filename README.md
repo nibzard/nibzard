@@ -12,6 +12,6 @@ I am [Nikola (Niko) Balić](https://nkkko.github.io/), an experienced growth str
 * 🌱 I am also researching Digital Transformation as part of my PhD, constantly learning and exploring new ways to drive growth and innovation.
 * 👯 I am open to collaborating with like-minded individuals and organizations passionate about growth, digitalization, and automation.
 * 💬 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolabalic) and [X](https://www.x.com/nibalic).
-* ⚡ Fun fact: I love creating and writing when inspiration strikes. I see rabbit holes everywhere. 🐇
+* ⚡ Fun fact: I see rabbit holes everywhere. 🐇
 
 Looking forward to connecting with you!
