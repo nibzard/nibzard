@@ -16,3 +16,7 @@ I am [Nikola (Niko) Balić](https://nkkko.github.io/), an experienced growth str
 * ⚡ Fun fact: I see rabbit holes everywhere. 🐇
 
 Looking forward to connecting with you!
+
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/nkkko/achievements?format=svg&limit=3" width="400" />
+</p>
