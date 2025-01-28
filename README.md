@@ -8,7 +8,7 @@ I am [Nikola (Niko) Balić](https://nkkko.github.io/), an experienced growth str
 
 * 🔭 I am the Head of Growth at [Daytona](https://www.daytona.io/), where we are serving our first enterprise clients and growing our [open source community](https://github.com/daytonaio/daytona).
 * 🖋️ I am the Weaver of the [Dotfiles Insider](https://www.daytona.io/dotfiles/)
-* 💌 I have sent out **30.3 million emails** for the weekly [Codeanywhere's Newsletter](https://blog.codeanywhere.com/resubscribe/) over 1 year.
+* 💌 I have sent out **30.3m/year emails** for the weekly [Codeanywhere's Newsletter](https://blog.codeanywhere.com/resubscribe/).
 * 🌱 I am researching Digital Transformation as part of my PhD.
 * 🕸️ For fun and giggles, I am lecturing at Faculty of Science, University of Split.
 * 💬 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolabalic) and [X](https://www.x.com/nibalic).
