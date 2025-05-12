@@ -1,19 +1,37 @@
-# AARRR! 🦜📈👋
+# Hi, I’m Niko 👋
 
 <!--
 **nkkko/nkkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Nikola (Niko) Balić](https://nkkko.github.io/), an experienced growth strategist and innovation enthusiast. I am passionate about helping startups thrive.
+I’m an experienced AI tinkerer, growth strategist, and innovation enthusiast. I help technical teams translate deep tech into real market impact.
 
-* 🔭 I am the Head of Growth at [Daytona](https://www.daytona.io/), where we are serving our first enterprise clients and growing our [open source community](https://github.com/daytonaio/daytona).
-* 🖋️ I am the Weaver of the [Dotfiles Insider](https://www.daytona.io/dotfiles/)
-* 💌 I have sent out **30 m/year emails** for the weekly [Codeanywhere's Newsletter](https://blog.codeanywhere.com/resubscribe/).
-* 🌱 I am researching Digital Transformation as part of my PhD.
-* 🕸️ For fun and giggles, I am lecturing at Faculty of Science, University of Split.
-* 💬 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nikolabalic) and [X](https://www.x.com/nibalic).
-* ⚡ Fun fact: I see rabbit holes everywhere. 🐇
+---
 
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/nkkko/achievements?format=svg&limit=3" width="400" />
-</p>
+### 🛠️ What I’ve Been Building & Growing (Last 2 Years)
+
+* 🚀 Former **Head of Growth at [Daytona](https://www.daytona.io/)** — led PLG and GTM efforts.
+* 🏆 Orchestrated **3 Product Hunt launches** (two 2nd-place, one 1st-place).
+* 🌟 Grew Daytona's **GitHub presence to \~20K stars** and **boosted domain rating from 0 → 49**.
+
+---
+
+### 🧠 What I’m Researching & Teaching
+
+* 🤖 Deeply engaged in **AI-native systems**, **multi-agent orchestration**, and **LLM-powered graph databases**.
+* 🎓 **PhD researcher** exploring the intersection of **AI and memory**.
+* 🕸️ **Lecturer** in **NoSQL** and **complex network analysis** at the Faculty of Science, University of Split.
+
+---
+
+### 💬 Let’s Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/nikolabalic)
+* 🐦 [X / Twitter](https://www.x.com/nibalic)
+* 💻 [GitHub](https://github.com/nkkko)
+
+---
+
+### ⚡ Fun Fact
+
+I’m driven by curiosity and **I see rabbit holes everywhere.** 🐇
