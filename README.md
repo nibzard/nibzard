@@ -1,7 +1,7 @@
 # Hi, I’m Niko 👋
 
 <!--
-**nkkko/nkkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nibzard/nibzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 I’m an experienced AI tinkerer, growth strategist, and innovation enthusiast. I help technical teams translate deep tech into real market impact.
@@ -27,8 +27,9 @@ I’m an experienced AI tinkerer, growth strategist, and innovation enthusiast. 
 ### 💬 Let’s Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/nikolabalic)
-* 🐦 [X / Twitter](https://www.x.com/nibalic)
-* 💻 [GitHub](https://github.com/nkkko)
+* 🐦 [X / Twitter](https://www.x.com/nibzard)
+* 💻 [GitHub](https://github.com/nibzard)
+* 📝 [Blog](https://nibzard.com/)
 
 ---
 
