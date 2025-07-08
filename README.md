@@ -30,7 +30,7 @@ I’m an experienced AI tinkerer, growth strategist, and innovation enthusiast. 
 * 🐦 [X / Twitter](https://www.x.com/nibzard)
 * 💻 [GitHub](https://github.com/nibzard)
 * 📝 [Blog](https://nibzard.com/)
-* 📧 [Wave Me](wave@nibzard.com)
+* 📧 [Wave Me](mailto:wave@nibzard.com)
 ---
 
 ### ⚡ Fun Fact
