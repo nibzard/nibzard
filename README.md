@@ -10,7 +10,6 @@ I’m an experienced AI tinkerer, growth expert, and strategist. I help engineer
 
 ### Now, Now, Now
 
-* ✨ **Leading growth** at [Steel](https://github.com/steel-dev/) - Browser for your AI Agent.
 * 🎓 New academic year, 2 new courses to teach: Intro to SWE and Scientific Programming.
 * 💼 Helping several small teams convert to AI native mindset.
 * 🇪🇺 Serving as an expert for European Comission on AI and digital topics.
