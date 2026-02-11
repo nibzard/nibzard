@@ -4,21 +4,22 @@
 **nibzard/nibzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I’m an experienced AI tinkerer, growth expert, and strategist. I help engineering teams translate tech into market impact.
+--> AI tinkerer, growth expert, and mentalist <--
 
 ---
 
 ### Now, Now, Now
 
-* 🎓 New academic year, 2 new courses to teach: Intro to SWE and Scientific Programming.
-* 💼 Helping small teams convert to AI native mindset.
+* 🚀 Joined a new rocketship, [Steel.dev](https://steel.dev/), as Founding Growth Lead
+* 🎓 Academic semester ended, 2 new courses closed: Intro to SWE and Scientific Programming.
+* 💼 Helping teams figure out AI native mindset.
 
 ---
 
 ### 🛠️ What I’ve Been Building
 
-* 🚀 Former **Head of Growth at [Daytona](https://www.daytona.io/)** — led PLG and GTM efforts.
-* 🌟 Grew Daytona's **GitHub to \~20K stars** and **boosted domain rating from 0 → 49**.
+* 🚀 **Founding Growth Lead** at [Steel.dev](https://github.com/steel-dev/)
+* 🌟 Former **Head of Growth at [Daytona](https://www.daytona.io/)** — led PLG/GTM/whatever efforts.
 
 ---
 
@@ -26,7 +27,7 @@ I’m an experienced AI tinkerer, growth expert, and strategist. I help engineer
 
 * 🤖 **AI-native systems** and **multi-agent orchestration**.
 * 🎓 **PhD researcher** exploring the intersection of **AI and humans**.
-* 🕸️ **Lecturer** in **NoSQL** and **Complex Network Analysis** at the Faculty of Science, University of Split.
+* 🕸️ **Lecturer** at the Faculty of Science, University of Split (**Complex Network Analysis**, **DBs**, **SWE-101**, **Scientific Programming**).
 
 ---
 
