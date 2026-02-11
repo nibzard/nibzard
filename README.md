@@ -4,7 +4,7 @@
 **nibzard/nibzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
---> AI tinkerer, growth expert, and mentalist <--
+**AI tinkerer, growth expert, and mentalist**
 
 ---
 
