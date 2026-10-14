@@ -11,7 +11,7 @@
 ### Now, Now, Now
 
 * 👁️ I see dead value propositions. If you need yours trashed, happy to chat.
-* 💼 Doing something about it through [DiseQui](https://disequi.com/), my own advisory: find your place in the AI future.
+* 💼 Doing something about it through [Disequi](https://disequi.com/), my own advisory: find your place in the AI future.
 * 🎓 New academic year underway at the Faculty of Science, University of Split.
 
 ---
