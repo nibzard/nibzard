@@ -28,7 +28,7 @@
 ### 🧠 What I’m Researching & Teaching
 
 * 🤖 **AI-native systems** and **multi-agent orchestration**.
-* 🎓 **PhD researcher** exploring the intersection of **AI and humans**.
+* 🎓 **PhD researcher** exploring the intersection of **bots and humans**.
 * 🕸️ **Lecturer** at the Faculty of Science, University of Split (**Complex Network Analysis**, **DBs**, **SWE-101**, **Scientific Programming**).
 
 ---
