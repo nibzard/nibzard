@@ -15,7 +15,7 @@
 ### 🛠️ What I’ve Been Building
 
 * 🚀 **Founding Growth Lead** at [Steel.dev](https://steel.dev/), building toward a complete operating environment for agents.
-* 🌟 **Head of Growth** at [Daytona](https://www.daytona.io/) — led PLG/GTM/whatever efforts.
+* 🌟 **Head of Growth** at [Daytona](https://www.daytona.io/), leading PLG/GTM/whatever efforts.
 * ☁️ **Advisor** at [Codeanywhere](https://en.wikipedia.org/wiki/Codeanywhere), the original cloud IDE (sunset 2026).
 * 🧮 **Advisor** at [Numarics](https://web.archive.org/web/2024/https://www.numarics.com/), Swiss AI accounting, later merged into radicant bank.
 
