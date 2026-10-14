@@ -8,6 +8,7 @@
 
 * 👁️ I see dead value propositions. If you need yours trashed, happy to chat.
 * 🧭 Doing something about it through [Disequi](https://disequi.com/), my advisory for finding your place in the AI future.
+* 🛠️ [looper](https://github.com/nibzard/looper) runs coding agents for days, [agentlab](https://github.com/nibzard/agentlab) gives them sandboxes, [openapi-agent-lab](https://github.com/nibzard/openapi-agent-lab) tests them against any API, [margin](https://github.com/nibzard/margin) reviews the Markdown they write.
 * 🎓 New semester, back to teaching in Split.
 
 ---
