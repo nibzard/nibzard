@@ -4,7 +4,7 @@
 **nibzard/nibzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-**AI tinkerer, growth expert, and mentalist**
+**making AI useful is mostly a product-market fit problem**
 
 ---
 
@@ -35,9 +35,8 @@
 
 * 🐦 [X / Twitter](https://www.x.com/nibzard)
 * 💼 [LinkedIn](https://www.linkedin.com/in/nikolabalic)
-* 💻 [GitHub](https://github.com/nibzard)
 * 📝 [Blog](https://nibzard.com/)
-* 📧 [Wave Me](mailto:wave@nibzard.com)
+* 👋 [Say hi](mailto:wave@nibzard.com)
 
 ---
 
