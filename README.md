@@ -10,8 +10,8 @@
 
 ### Now, Now, Now
 
-* 🚀 Joined a new rocketship, [Steel.dev](https://steel.dev/), as Founding Growth Lead
-* 🎓 Academic semester ended, 2 new courses closed: Intro to SWE and Scientific Programming.
+* 👁️ I see dead value propositions. If you need yours trashed, happy to chat.
+* 🎓 New academic year underway at the Faculty of Science, University of Split.
 * 💼 Helping teams figure out AI native mindset.
 
 ---
@@ -19,7 +19,7 @@
 ### 🛠️ What I’ve Been Building
 
 * 🚀 **Founding Growth Lead** at [Steel.dev](https://github.com/steel-dev/)
-* 🌟 Former **Head of Growth at [Daytona](https://www.daytona.io/)** — led PLG/GTM/whatever efforts.
+* 🌟 **Head of Growth** at [Daytona](https://www.daytona.io/) — led PLG/GTM/whatever efforts.
 
 ---
 
